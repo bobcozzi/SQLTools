@@ -2,6 +2,9 @@
 SQL Tools - High performance SQL functions for IBM i and RPG IV
 <p>SQL Tools provides SQL Table Function (UDTF) wrappers for most IBM i APIs as well as providing additional capabilities, such as financial functions, CSV support and IFS read/write capabilities.</p>
 <p>SQL Tools may be installed and run on IBM i Version 7.2 and later without changes. That is if you have V7R2 and V7R5 partitions, you can use the exact same SQL Tools functions on both without syntax issues or feature restrictions.</p>
+<p>SQL Tools is a licensed program product (2COZ-ST3) under an annual subscription model.</p>
+<p>A license key for your current system is available for $495 and operates forever. 
+To receive support an updates after the first year, yearly SWMA of $495 is available on a subscription basis.</p>
 <h3>Download and Install</h3>
 <p>To download SQL Tools for IBM i, click on the link below that best matches your current IBM i version.</p>
 <p>SQL Tools for IBM i V7R2 only: <a href="https://www.dropbox.com/scl/fi/ll3b1t83v8g3wmfaudx8j/SQLTOOLS72.savf?rlkey=mki43jlcv6hykus11q1z0cvq5&dl=1">Download V7R2 save file image</a></p>
