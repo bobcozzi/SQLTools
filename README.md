@@ -1,7 +1,7 @@
 # SQLTools
 SQL Tools - High performance SQL functions for IBM i and RPG IV
 <h2>SQL Tools v3.4 is now a no-charge licensed program</h2>
-<p>It is free to use by all IBM i customers. For updates visit this github page. For support, use the github forums here or go over to Linked in and tag Bob Cozzi in your message.</p>
+<p>Bob Cozzi IBM i SQL functions library, <b>SQLTOOLS</b> is now free to use by all IBM i customers. For updates visit this github page. For support, use the github forums here or go over to Linked in and tag Bob Cozzi in your message.</p>
   <p>Existing customers can update to V3.4 at no charge anytime. Just download it from the Release link on the right side of this page.</p>
 <p>SQL Tools provides SQL Table Function (UDTF) wrappers for most IBM i APIs as well as providing additional capabilities, such as financial functions, CSV support and IFS read/write capabilities.</p>
 <p>SQL Tools may be installed and run on IBM i Version 7.2 and later without changes. That is if you have V7R2 and V7R5 partitions, you can use the exact same SQL Tools functions on both without syntax issues or feature restrictions.</p>
