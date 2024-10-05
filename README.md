@@ -5,13 +5,8 @@ SQL Tools - High performance SQL functions for IBM i and RPG IV
   <p>Existing customers can update to V3.4 at no charge anytime. Just download it from the Release link on the right side of this page.</p>
 <p>SQL Tools provides SQL Table Function (UDTF) wrappers for most IBM i APIs as well as providing additional capabilities, such as financial functions, CSV support and IFS read/write capabilities.</p>
 <p>SQL Tools may be installed and run on IBM i Version 7.2 and later without changes. That is if you have V7R2 and V7R5 partitions, you can use the exact same SQL Tools functions on both without syntax issues or feature restrictions.</p>
-<p>SQL Tools is a licensed program product (2COZ-ST3) under a one-time-charge (OTC) model.</p>
-<p>A license key for your current system is available for a one-time-charge (OTC) of $595 for all partitions on one physical system. It is a perpetual license.</p> 
-<p>To receive support, email Bob Cozzi at the link below or connect over on LinkedIn.</p>
 <h3>Download and Install</h3>
-<p>To download SQL Tools for IBM i, click on the link below that best matches your current IBM i version.</p>
-<p>SQL Tools for IBM i V7R2 only: <a href="https://www.dropbox.com/scl/fi/ll3b1t83v8g3wmfaudx8j/SQLTOOLS72.savf?rlkey=mki43jlcv6hykus11q1z0cvq5&dl=1">Download V7R2 save file image</a></p>
-<p>SQL Tools for IBM i V7R3 and later: <a href="https://www.dropbox.com/scl/fi/71wj67rv2vr2ruzxbczan/SQLTOOLS.savf?rlkey=f76v5pmaottk7l4f6vpopan0x&dl=1">Download V7R3+ save file image</a></p>
+<p>To download SQL Tools for IBM i, click on the Release link on the right-side of this page. Then select the appropriate save file. Most users on IBM i V7R3 and later should download and install the SQLTOOLS.SAVF, while those on V7R2 should use the SQLTOOLS72.SAVF for their system.</p>
 <p>Once you have downloaded the save file to your PC, upload it to the IBM i server using binary mode FTP or similar. Normally you should create a save file object on the IBM i server in QGPL and upload the PC .SAVF to that host file.
 IBM i allows you to create a save file using the CRTSAVF CL command.</p>
 <pre>CRTSAVF QGPL/SQLTOOLS</pre>
